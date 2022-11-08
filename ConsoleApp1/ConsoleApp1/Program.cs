@@ -14,7 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("Enter second Number  :");
             int secondnumber = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine("Sum of two numbers is :"+(firstNumber+secondnumber-1).ToString());
+            Console.WriteLine("Sum of two numbers is :"+(firstNumber+secondnumber).ToString());
             Console.ReadKey();
         }
     }
