@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Add two nubmbers \n");
             Console.WriteLine("Enter first Number :");
+            Console.WriteLine("Enter second Number  :");
         }
     }
 }
