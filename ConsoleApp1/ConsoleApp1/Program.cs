@@ -6,8 +6,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Add two nubmbers \n");
+            Console.WriteLine("Add two numbers \n");
             Console.WriteLine("Enter first Number :");
+            int firstNumber = Int32.Parse(Console.ReadLine());
+
             Console.WriteLine("Enter second Number  :");
         }
     }
