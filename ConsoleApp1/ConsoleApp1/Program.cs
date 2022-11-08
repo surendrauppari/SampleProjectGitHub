@@ -10,7 +10,9 @@ namespace ConsoleApp1
             Console.WriteLine("Enter first Number :");
             int firstNumber = Int32.Parse(Console.ReadLine());
 
+
             Console.WriteLine("Enter second Number  :");
+            int secondnumber = Int32.Parse(Console.ReadLine());
         }
     }
 }
